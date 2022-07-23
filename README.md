@@ -3,7 +3,7 @@ Just a small neofetch config script that looks cool!
 
 
 ## Instructions
-Open up your terminal application. (Note: You must have neofetch installed)  
+Open up your terminal application. (Note: You must have `neofetch` installed)  
 Clone this repository using  
 `git clone https://github.com/Sachin-Bhat/neofetch-custom-config.git`  
 Then  
