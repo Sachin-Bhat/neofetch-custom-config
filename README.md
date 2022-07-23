@@ -4,7 +4,8 @@ Just a small neofetch config script that looks cool!
 
 ## Instructions
 Open up your terminal application. (Note: You must have neofetch installed)  
-Clone this repository using the `git clone ` command.  
+Clone this repository using  
+`git clone https://github.com/Sachin-Bhat/neofetch-custom-config.git`  
 Then  
 `cd neofetch-custom-config`  
 `sudo cp -r config.conf ~/.config/neofetch/config.conf`
